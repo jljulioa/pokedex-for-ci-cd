@@ -12,3 +12,9 @@ jobs:
       - name: hellon
         run: |
           echo "Hello jljulioa from pokedex"
+      - name: Fecha
+        run: |
+          date
+      - name: hellon
+        run: |
+          ls -lrta
